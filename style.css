@@ -1,0 +1,32 @@
+
+  /* Change background on mouse-over */
+ 
+
+  .header {
+    font-size: 200%;
+    padding: 60px;
+    text-align: center;
+    color: black;
+  }
+  .header-b {
+    font-size: 200%;
+    padding: 60px;
+    text-align: center;
+    color: white;
+  }
+
+  .navW {
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }
+  .nav{
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  
+  /* Style the header links */
+
+
+  
