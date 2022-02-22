@@ -1,0 +1,40 @@
+TITLE{
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    display:block;
+    margin-bottom: 100px;
+    color: white;
+}
+LIST{
+    background-color: black;
+}
+SONG{
+    display:block;
+    margin-bottom: 100px;
+}
+NAME{
+    color: red;
+    font-size: 200%;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+}
+ARTIST{
+    color: red;
+    font-size: 150%;
+    display: block;
+}
+ALBULM{
+    color: gold;
+    font-size: 125%;
+    display: block;
+}
+GENRE{
+    color: white;
+    font-size: 100%;
+    display: inline;
+}
+YEAR{
+    color: white;
+    font-size: 100%;
+    display: block;
+}

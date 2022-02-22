@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+<title>
+    Joe's Hotdog Stand 
+</title>
+<style>
+    h1 {
+         position: relative;
+         width: 50;
+         font-family: 'Times New Roman', Times, serif; }
+
+    body {
+        background-color: lightcyan;}
+</style>
+    </head>
+        <body>
+            <h1>Your Order at Joe's</h1>
+
+        <script language="javascript"> 
+
+            const order = [];
+            const prices = [];
+
+            order[0] = prompt("How many Hotdogs do you want?", 0);
+            order[1] = prompt("How many French Fries do you want?", 0);
+            order[2] = prompt("How many Sodas do you want?", 0);
+
+            prices[0] = order[0] * 3.75;
+            prices[1] = order[1] * 2;
+            prices[2] = order[2] * 1.80;
+            price = prices[1] + prices[0] + prices[2];
+
+            if (order[0] = 1){
+                document.write("You ordered " + order[0] + " Hotdog, for a total of $" + prices[0].toFixed(2) + "<br>"); }
+            else {
+                document.write("You ordered " + order[0] + " Hotdogs, for a total of $" + prices[0].toFixed(2) + "<br>");
+            }
+            if (order[1] = 1){
+                document.write("You ordered " + order[1] + "order of Fries, for a total of $" + prices[1].toFixed(2) + "<br>");
+            }
+            else {
+                document.write("You ordered " + order[1] + " Fries, for a total of $" + prices[1].toFixed(2) + "<br>");
+            }
+            if (order[2] = 1){
+
+                document.write("You ordered " + order[2] + " Soda, for a total of $" + prices[2].toFixed(2) + "<br>");
+            }
+            else{
+
+                document.write("You ordered " + order[2] + " Sodas, for a total of $" + prices[2].toFixed(2) + "<br>");
+            }
+
+
+            if(price > 20){
+                discount = price * .1
+                document.write("You earned a discount of $" + discount.toFixed(2) + "<br>");
+                price = price * .9;}
+
+            tax = price * .0625;
+            total = price +tax;
+            document.write("Your tax is  $" + tax.toFixed(2) + "<br>");
+            document.write("Your full total is  $" + total.toFixed(2) + "<br>");
+        </script>
+    </body>
+</html>

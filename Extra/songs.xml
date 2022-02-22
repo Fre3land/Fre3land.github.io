@@ -1,0 +1,96 @@
+<?xml-stylesheet href = "style2.css"?>
+
+<LIST>
+    <TITLE>
+        Nick's Song List
+    </TITLE>
+    <SONG>
+        <NAME> Shake </NAME>
+        <ARTIST> by Yeek </ARTIST>
+        <ALBULM> Albulm: Sebastian  </ALBULM>
+        <GENRE> Indie/</GENRE>
+        <GENRE> Alternative </GENRE>
+        <YEAR> Released in 2017 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> Ventura Highwway </NAME>
+        <ARTIST> by America</ARTIST>
+        <ALBULM> Albulm: Homecoming </ALBULM>
+        <GENRE> Rock/</GENRE>
+        <GENRE> Folk </GENRE>
+        <YEAR> Released in 1972 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> I Think </NAME>
+        <ARTIST> by Tyler, the Creator</ARTIST>
+        <ALBULM> Albulm: Igor </ALBULM>
+        <GENRE> Rap </GENRE>
+        <YEAR> Released in 2019 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> Fallin </NAME>
+        <ARTIST>by Felly </ARTIST>
+        <ALBULM> Albulm: Surf Trap </ALBULM>
+        <GENRE> Hip-Hop/</GENRE>
+        <GENRE> Rap </GENRE>
+        <YEAR> Released in 2018 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> Sweet Honey </NAME>
+        <ARTIST>by Los Retros</ARTIST>
+        <ALBULM> Albulm: Everlasting</ALBULM>
+        <GENRE> RandB/</GENRE>
+        <GENRE> Soul </GENRE>
+        <YEAR> Released in 2020 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> High Strung </NAME>
+        <ARTIST>by Atwood, Biskwiq </ARTIST>
+        <ALBULM> Albulm: High Strung</ALBULM>
+        <GENRE> Indie </GENRE>
+        <YEAR> Released in 2020 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> Satelite </NAME>
+        <ARTIST> by Will Paquin </ARTIST>
+        <ALBULM> Albulm: Vol. 1</ALBULM>
+        <GENRE> Alternative/</GENRE>
+         <GENRE>Indie</GENRE>
+        <YEAR> Released in 2021 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> Resonance </NAME>
+        <ARTIST> by Home </ARTIST>
+        <ALBULM> Albulm: Odyssey </ALBULM>
+        <GENRE> Synthwave/</GENRE>
+        <GENRE> Electronic </GENRE>
+        <YEAR> Released in 2014 </YEAR>
+    </SONG> 
+    
+    <SONG>
+        <NAME> Passionfruit </NAME>
+        <ARTIST> by Drake </ARTIST>
+        <ALBULM> Albulm: More Life </ALBULM>
+        <GENRE> Rap/</GENRE>
+        <GENRE> Hip-Hop </GENRE>
+        <YEAR> Released in 2017 </YEAR>
+    </SONG>
+
+    <SONG>
+        <NAME> When You Die </NAME>
+        <ARTIST> by MGMT </ARTIST>
+        <ALBULM> Albulm: Little Dark Age </ALBULM>
+        <GENRE> Alternative/</GENRE>
+        <GENRE> Indie </GENRE>
+        <YEAR> Released in 2018 </YEAR>
+    </SONG>
+</LIST>
+
+
